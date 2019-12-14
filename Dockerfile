@@ -1,4 +1,4 @@
-FROM python:2.7
+FROM python:3.2
 
 LABEL "com.github.actions.name"="Docsearch Scraper"
 LABEL "com.github.actions.description"="Wrapper for docsearch-scraper (Algolia)"
